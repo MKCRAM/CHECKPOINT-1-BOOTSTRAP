@@ -1,0 +1,40 @@
+.bg-img{
+    background-image: url("Image\ fond.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
+.cover{
+    font-family:cursive;
+    font-size: 60px;
+    color: solid rgb(230, 223, 223);
+    background-color: aliceblue;
+}
+   
+
+
+.nav-item{
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+
+.navbar-nav{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #585804;
+    height: 100px;
+    width: 50px;
+}
+.prix{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    font-size: xx-large;
+    color: red;
+}
